@@ -1,0 +1,20 @@
+body {
+    background: #252525;
+}
+
+.container {
+    background: #f1f1f1;
+    padding: 0 50px;
+}
+
+.carousel-item {
+    height: 600px;
+    // 自動縮放
+    object-fit: cover;
+}
+
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
